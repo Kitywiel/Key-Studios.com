@@ -1,0 +1,1 @@
+alert("you are entering a unfinised site")
