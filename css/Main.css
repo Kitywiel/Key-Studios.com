@@ -1,0 +1,7 @@
+body{margin: 0px; background-color: dimgray;}
+.Burger_menu_img{height: 40px;margin: 2.5px 0px 0px 2.5px;}
+.Key_studios_nav_logo{height: 50px;}
+.nav_button{border: 0px; padding: 0px 3px 0px 0px; background-color: black;}
+.nav_button:hover{background-color: darkgray;}
+.top_nav_text{font-size: 40px; margin: 0;}
+.Top_nav_container{display: flex; justify-content: space-between; background-color: black; color: aliceblue;}
