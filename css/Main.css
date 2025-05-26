@@ -1,4 +1,9 @@
-body{margin: 0px; background-color: dimgray;height: 100%;}
+body{margin: 0; background-color: dimgray;
+min-height: 100dvh;
+display: grid;
+grid-template-rows: auto 1fr auto;
+grid-template-columns: minmax(0,1fr);
+}
 html{height: 100%;}
 .Burger_menu_img{height: 40px;margin: 2.5px 0px 0px 2.5px;}
 .Key_studios_nav_logo{height: 50px;}
